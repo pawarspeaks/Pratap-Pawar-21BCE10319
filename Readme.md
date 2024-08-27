@@ -1,6 +1,10 @@
-# Chess-like Game
+![image](https://github.com/user-attachments/assets/1555bd05-4c21-4bb1-8cb6-241ce2d4cf58)# Chess-like Game
 
 This is a simple chess-like game implemented using Node.js, Express, and Socket.IO for real-time multiplayer functionality.
+
+![image](https://github.com/user-attachments/assets/542bd9d1-7fe3-4d6a-8e5b-e53b5ce63e7f)
+
+![image](https://github.com/user-attachments/assets/83543993-4848-4486-a17d-0655dbfdb3e0)
 
 ## Prerequisites
 
@@ -11,12 +15,12 @@ This is a simple chess-like game implemented using Node.js, Express, and Socket.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/pawarspeaks/Pratap-Pawar-21BCE10319.git
+   git clone https://github.com/pawarspeaks/Pratap-Pawar-21BCE10319
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Pratap-Pawar-21BCE10319
+   cd chess-like-game
    ```
 
 3. Install the dependencies:
