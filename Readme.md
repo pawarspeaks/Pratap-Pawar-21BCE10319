@@ -10,22 +10,26 @@ This is a simple chess-like game implemented using Node.js, Express, and Socket.
 ## Installation
 
 1. Clone the repository:
-
-git clone https://github.com/yourusername/chess-like-game.git
+   ```
+   git clone https://github.com/pawarspeaks/Pratap-Pawar-21BCE10319.git
+   ```
 
 2. Navigate to the project directory:
-
-cd chess-like-game
+   ```
+   cd Pratap-Pawar-21BCE10319
+   ```
 
 3. Install the dependencies:
-
-npm install
+   ```
+   npm install
+   ```
 
 ## Running the Game
 
 1. Start the server:
-
-npm start
+   ```
+   npm start
+   ```
 
 2. Open your web browser and navigate to `http://localhost:3000`
 
@@ -54,4 +58,3 @@ npm start
 - HTML
 - CSS
 - JavaScript (ES6+)
-
