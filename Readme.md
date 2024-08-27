@@ -19,6 +19,7 @@ This is a simple chess-like game implemented using Node.js, Express, and Socket.
 
 2. Navigate to the project directory:
    ```
+   cd Pratap-Pawar-21BCE10319
    cd chess-like-game
    ```
 
