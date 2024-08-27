@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1555bd05-4c21-4bb1-8cb6-241ce2d4cf58)# Chess-like Game
 
 This is a simple chess-like game implemented using Node.js, Express, and Socket.IO for real-time multiplayer functionality.
 
